@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="center">💻Fernando Magalhães</h2>
+<h1 data-importer="text" align="left">💻Fernando Magalhães</h1>
 
 ###
 
-<p data-importer="text" align="left">Olá! Meu nome é Fernando, tenho 18 anos e sou apaixonado por tecnologia. Atualmente estou estudando para desenvolver minhas habilidades na área de TI e construir uma carreira sólida no setor. Gosto de aprender coisas novas, enfrentar desafios e compartilhar minha evolução através dos projetos e estudos publicados aqui no GitHub</p>
+<h4 data-importer="text" align="left">Olá! Meu nome é Fernando, tenho 18 anos e sou apaixonado por tecnologia. Atualmente estou estudando para desenvolver minhas habilidades na área de TI e construir uma carreira sólida no setor. Gosto de aprender coisas novas, enfrentar desafios e compartilhar minha evolução através dos projetos e estudos publicados aqui no GitHub</h4>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Linguagem e Ferramentas</h2>
+<h1 data-importer="text" align="left">Linguagem e Ferramentas</h1>
 
 ###
 
