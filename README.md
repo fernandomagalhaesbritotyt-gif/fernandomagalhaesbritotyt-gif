@@ -86,22 +86,6 @@ Atualmente estou estudando para desenvolver minhas habilidades na área de TI e 
 
 ---
 
-## 🐍 Snake de Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-## 📈 Visitantes
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=fernandomagalhaesbritotyt-gif&color=blueviolet)
-
-</div>
-
----
-
 <h3 align="center">
 🚀 Sempre aprendendo, sempre evoluindo.
 </h3>
